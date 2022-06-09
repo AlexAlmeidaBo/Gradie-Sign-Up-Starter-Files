@@ -129,7 +129,7 @@ section{
         display: flex;
         flex-direction: column;
         width: 280px;
-        min-height: 600px;
+        min-height: 620px;
     }
 
     section{
@@ -156,6 +156,7 @@ section{
 
     .container-content h1{
         font-size: 18px;
+        margin: 7px 0;
     }
 
     .container-login input{
